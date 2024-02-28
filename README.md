@@ -35,13 +35,13 @@ Features extracted are:
 
 
 
- Zero Crossing Rate \
+ Zero Crossing Rate 
 
-Chroma_stft \
+Chroma_stft,  
 
-MFCC Mel Frequency Cepstral Coefficients\
+MFCC Mel Frequency Cepstral Coefficients, 
 
-RMS(root mean square) value \
+RMS(root mean square) value, 
 
 MelSpectogram
 
